@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @midtence
-- 👀 I’m interested in programing
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
